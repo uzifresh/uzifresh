@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @uzifresh
+- 👋 Hi, I’m Judith @uzifresh
 - 👀 I’m interested in web design and development 
-- 🌱 I’m currently learning front-end and Python with the I4G×Zuri team
+- 🌱 I’m currently learning full stack and Python with the I4G×Zuri cohort II team
 - 💞️ I look forward to goal oriented collaborations
 - 📫 How to reach me uzeziegbo@gmail.com
 
